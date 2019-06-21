@@ -1,8 +1,12 @@
-class Carousel {
+// class Carousel {
+//     constructor(carouselImg){
+//         this.carouselImg = carouselImg;
+        
+//         this.carouselImg.addEventListener('click',this.selectTab.bind(this));
 
-}
+// }
 
-let carouselImgs = document.querySelectorAll('.carousel img').forEach(img => new Carousel(img));
+// let carouselImgs = document.querySelectorAll('.carousel img').forEach(img => new Carousel(img));
 
 /* If You've gotten this far, you're on your own! Although we will give you some hints:
     1. You will need to grab a reference to the carousel, and in it grab the left and right buttons
